@@ -1,0 +1,15 @@
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\zahan\UNIVERSITY\2025\SUMMER25\PRN212\Codes\ASM2\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
